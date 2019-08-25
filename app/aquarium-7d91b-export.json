@@ -1,0 +1,8 @@
+{
+  "TestIoT" : {
+    "App" : "on",
+    "cover" : "off",
+    "feed" : "off",
+    "light" : "off"
+  }
+}

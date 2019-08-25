@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1C4668</color>
+    <color name="colorPrimaryDark">#4A47A7</color>
+    <color name="colorAccent">#970A44</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorPurple">#4A47A7</color>
+    <color name="colorDark">#09263D</color>
+    <!--Switch Color-->
+    <color name="enable_thumb_feed">#3D7C8F</color>
+    <color name="enable_thumb_light">#EC6665</color>
+    <color name="enable_thumb_cover">#AE3251</color>
+</resources>
